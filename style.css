@@ -1,0 +1,63 @@
+h1
+{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', sans-serif;
+    color:indianred
+}
+#firstbox
+{
+    border:5px solid black;
+    border-width: 30px 10px;
+    background-color: aqua;
+    padding:20px;
+    margin-left:1%;
+    margin-top: 24px;
+    width: 170px;
+}
+li
+{
+    margin:0px;
+    width:100px;
+    font-weight: bold;
+    color:brown;
+    font-style: normal;
+}
+ol
+{
+    
+    text-align: left;
+    text-transform:uppercase;
+}
+#Secondbox
+{
+    border:5px solid black;
+    border-width: 30px 10px;
+    background-color: darkgoldenrod;
+    padding:20px;
+    width: 170px;
+    margin-left:18.2%;
+    
+}
+.thirdbox
+{
+border:5px solid black;
+    border-width: 30px 10px;
+    background-color:greenyellow;
+    padding:20px;
+    margin-left:1%;
+    width: 170px;
+}
+.fourthbox
+{
+    border:5px solid black;
+    border-width: 30px 10px;
+    background-color:bisque;
+   padding:20px;
+    margin-left:18.2%;
+    width: 170px;
+}
+html{
+    background: #C8E4B2;
+}
+
